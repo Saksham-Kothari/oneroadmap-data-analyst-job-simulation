@@ -191,19 +191,19 @@ oneroadmap-data-analyst-job-simulation/
 │
 ├── README.md
 │
-├── data/
+├── Data/
 │   └── urbankart_sales_clean.csv
 │
-├── analysis/
+├── Analysis/
 │   └── analysis files
 │
-├── dashboards/
+├── Dashboards/
 │   └── UrbanKart dashboard files
 │
-├── reports/
+├── Reports/
 │   └── business memo
 │
-└── certificate/
+└── Certificate/
     └── OneRoadmap certificate
 ```
 
