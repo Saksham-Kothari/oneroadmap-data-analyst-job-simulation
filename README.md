@@ -278,4 +278,8 @@ I'm actively building practical projects and developing my analytical, visualiza
 
 ⭐ Feel free to explore my other data analytics and software projects.
 
-```
+**Repository name:**  
+`oneroadmap-data-analyst-job-simulation`
+
+**Repository description:**  
+`OneRoadmap Data Analyst Job Simulation — UrbanKart sales analysis, revenue trends, channel performance, and business recommendations.`
